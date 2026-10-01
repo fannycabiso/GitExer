@@ -2,3 +2,4 @@ student1.txt
 
 Name: Juan Dela Cruz 
 Grade: 100
+New Student : Fanny C. Almeniana
